@@ -3,7 +3,6 @@
 - tackling: <br>
   - **Algo 300 Adder QFT**: already convert int to qubit data but idk  <br>
   - **pennylane 300 Superdense Coding**: already finish the alice-bob process, i think...., but bob measurement is not working? and the sin/cos entanglement looks weird <br>
-  - **pennylane 400: Finite Difference**: tried directly calculate the gradient, but i think we should use subtraction to get the answer, but not usre how to set f_0 <br>
   - **QML 100 Generate Fourier Basis**: Establish the circuit ready for train, but idk how the error works, so can't train <br>
   - **QML 200 Who Likes Beatles**: Finish data embedding, i think the problem is at distance calculation <br>
  
