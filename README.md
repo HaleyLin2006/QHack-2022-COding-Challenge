@@ -1,7 +1,6 @@
 ## The Problem Now
 - finished pennylane 101 - 100&200
 - tackling: <br>
-  - **Algo 100 DJ Algo**: finish the hadmard gate setup and more, but still wrong for idk reason. look at the last qubit<br>
   - **Algo 300 Adder QFT**: already convert int to qubit data but idk  <br>
   - **pennylane 300 Superdense Coding**: already finish the alice-bob process, i think...., but bob measurement is not working? and the sin/cos entanglement looks weird <br>
   - **pennylane 400: Finite Difference**: tried directly calculate the gradient, but i think we should use subtraction to get the answer, but not usre how to set f_0 <br>
