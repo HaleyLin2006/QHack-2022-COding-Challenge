@@ -1,12 +1,12 @@
 ## The Problem Now
 - finished pennylane 101 - 100&200
-- tackling:
-  -> Algo 100 DJ Algo: finish the hadmard gate setup and more, but still wrong for idk reason.
-  -> Algo 300 Adder QFT: already convert int to qubit data but idk 
-  -> pennylane 300 Superdense Coding: already finish the alice-bob process, i think...., but bob measurement is not working? and the sin/cos entanglement looks weird
-  -> pennylane 400: Finite Difference: tried directly calculate the gradient, but i think we should use subtraction to get the answer, but not usre how to set f_0
-  -> QML 100 Generate Fourier Basis: Establish the circuit ready for train, but idk how the error works, so can't train
-  -> QML 200 Who Likes Beatles: Finish data embedding, i think the problem is at distance calculation
+- tackling: <br>
+  - Algo 100 DJ Algo: finish the hadmard gate setup and more, but still wrong for idk reason. <br>
+  -> Algo 300 Adder QFT: already convert int to qubit data but idk  <br>
+  -> pennylane 300 Superdense Coding: already finish the alice-bob process, i think...., but bob measurement is not working? and the sin/cos entanglement looks weird <br>
+  -> pennylane 400: Finite Difference: tried directly calculate the gradient, but i think we should use subtraction to get the answer, but not usre how to set f_0 <br>
+  -> QML 100 Generate Fourier Basis: Establish the circuit ready for train, but idk how the error works, so can't train <br>
+  -> QML 200 Who Likes Beatles: Finish data embedding, i think the problem is at distance calculation <br>
  
 ![image](img/qhack-banner.png)
 
